@@ -1,0 +1,54 @@
+0 0 0
+1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 1
+1
+100
+5grasa
+5grasb
+5grasc
+5grasd
+5grase
+5grasf
+5grasg
+//
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 2
+1
+100
+5ova
+5ovb
+5ovc
+5ovd
+5ove
+5ovf
+5ovg
+//
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 1
+1
+100
+5gra
+5grb
+5grc
+5grd
+5gre
+5grf
+5grg
+5grh
+//

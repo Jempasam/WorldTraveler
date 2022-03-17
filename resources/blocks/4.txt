@@ -1,0 +1,51 @@
+0 0 1
+1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 1
+1
+100
+4basa
+4basb
+4basc
+4basd
+4base
+4basf
+4basg
+4bash
+4basi
+4basj
+4bask
+4basl
+4basm
+4basn
+4baso
+4basp
+4basq
+4basr
+4bass
+4bast
+//
+0 0
+0 0
+0 0
+0 0
+-5 5
+-5 5
+0 1
+1
+100
+4ova
+4ovb
+4ovc
+4ovd
+4ove
+4ovf
+4ovg
+4ovh
+4ovj
+//

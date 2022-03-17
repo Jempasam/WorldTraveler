@@ -1,0 +1,46 @@
+1 0 0
+1
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+1 1
+1
+100
+6fda
+6fdb
+6fdc
+6fdd
+6fde
+6fdf
+6fdg
+6fdh
+6fdi
+6fdj
+6fdk
+6fdl
+6fdm
+6fdn
+6fdo
+6fdp
+6fdq
+//
+0 0
+0 0
+0 0
+0 0
+0 0
+0 0
+0 2
+1
+40
+6ova
+6ovb
+6ovc
+6ovd
+6ove
+6ovf
+6ovg
+//

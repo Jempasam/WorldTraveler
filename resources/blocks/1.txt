@@ -1,0 +1,27 @@
+0 1 0
+1
+0 0
+0 0
+0 0
+0 0
+-2 2
+-2 2
+1 3
+1
+100
+1orea
+1oreb
+1orec
+1ored
+1oree
+1oref
+1oreg
+1oreh
+1orei
+1orej
+1orek
+1orel
+1orem
+1oren
+1oreo
+//
